@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options to match the image style
-          user: your-github-username # <--- CHANGE THIS TO YOUR USERNAME
+          user: researchmaredi 
           template: classic
           base: header, activity, community, repositories
           config_timezone: Africa/Johannesburg # Optional: Set your timezone
