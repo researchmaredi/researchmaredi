@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madimetja-maredi-7409b3241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madimetja.maredi@gmail.com)
 
+![Metrics](https://github.com/researchmaredi/researchmaredi/blob/main/github-metrics.svg)
+
 <!--
 **researchmaredi/researchmaredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
