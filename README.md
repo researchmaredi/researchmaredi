@@ -11,7 +11,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,linux,streamlit,cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,r,linux,cs&theme=dark" />
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit logo" />
   </a>
 </div>
 
