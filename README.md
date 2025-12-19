@@ -10,12 +10,9 @@
 ### Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,linux,cs&theme=dark" />
-  </a>
-  <a href="https://streamlit.io/">
-    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit logo" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,linux,cs&theme=dark" /></a>
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="streamlit logo" style="vertical-align:top; margin:4px" /></a>
+  <a href="https://mc-stan.org/"><img src="https://raw.githubusercontent.com/stan-dev/logos/master/logo.png" height="40" alt="Stan logo" style="vertical-align:top; margin:4px;" /></a>
 </div>
 
 
